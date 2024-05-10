@@ -35,7 +35,7 @@ BlendTree:
   m_Name: Blend Tree
   m_Childs:
   - serializedVersion: 2
-    m_Motion: {fileID: -4562485965608625671, guid: 4000b6abf715f084fb66c90c269a1fcc,
+    m_Motion: {fileID: -4562485965608625671, guid: 2435d328ad6d3314e9d6b54bd74a17ba,
       type: 3}
     m_Threshold: 0
     m_Position: {x: 0, y: 0}
@@ -44,7 +44,7 @@ BlendTree:
     m_DirectBlendParameter: Grip
     m_Mirror: 0
   - serializedVersion: 2
-    m_Motion: {fileID: -4364529159046666085, guid: 4000b6abf715f084fb66c90c269a1fcc,
+    m_Motion: {fileID: -4364529159046666085, guid: 2435d328ad6d3314e9d6b54bd74a17ba,
       type: 3}
     m_Threshold: 0.33333334
     m_Position: {x: 1, y: 1}
@@ -53,7 +53,7 @@ BlendTree:
     m_DirectBlendParameter: Grip
     m_Mirror: 0
   - serializedVersion: 2
-    m_Motion: {fileID: -5946448489606889596, guid: 4000b6abf715f084fb66c90c269a1fcc,
+    m_Motion: {fileID: 2787465525510427380, guid: 2435d328ad6d3314e9d6b54bd74a17ba,
       type: 3}
     m_Threshold: 0.6666667
     m_Position: {x: 0, y: 1}
@@ -62,7 +62,7 @@ BlendTree:
     m_DirectBlendParameter: Grip
     m_Mirror: 0
   - serializedVersion: 2
-    m_Motion: {fileID: 2787465525510427380, guid: 4000b6abf715f084fb66c90c269a1fcc,
+    m_Motion: {fileID: -5946448489606889596, guid: 2435d328ad6d3314e9d6b54bd74a17ba,
       type: 3}
     m_Threshold: 1
     m_Position: {x: 1, y: 0}
@@ -76,7 +76,7 @@ BlendTree:
   m_MaxThreshold: 1
   m_UseAutomaticThresholds: 1
   m_NormalizedBlendValues: 0
-  m_BlendType: 1
+  m_BlendType: 2
 --- !u!1107 &-2101618674097234228
 AnimatorStateMachine:
   serializedVersion: 6

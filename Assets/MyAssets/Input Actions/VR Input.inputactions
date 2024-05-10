@@ -28,7 +28,7 @@
                 {
                     "name": "",
                     "id": "7f464024-be10-43d0-ba7d-c31c64ebed1b",
-                    "path": "<OculusTouchController>{RightHand}/grip",
+                    "path": "<XRController>{RightHand}/{Grip}",
                     "interactions": "",
                     "processors": "",
                     "groups": "",
@@ -39,7 +39,7 @@
                 {
                     "name": "",
                     "id": "23ee3d70-2182-4ccb-931a-73ea47fbc9dc",
-                    "path": "<OculusTouchController>{RightHand}/{TriggerButton}",
+                    "path": "<XRController>{RightHand}/{TriggerButton}",
                     "interactions": "",
                     "processors": "",
                     "groups": "",
